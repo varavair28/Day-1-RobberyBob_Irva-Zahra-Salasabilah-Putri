@@ -1,6 +1,6 @@
-# Dokumentasi Kegiatan Workshop
+# Repository
 
-**Nama Lengkap:** Irva Zahra Salasabilah Putri
+Nama Lengkap: Irva Zahra Salasabilah Putri
 
 ## Deskripsi Repository
 Repository ini merupakan tempat penyimpanan dan dokumentasi seluruh kegiatan, materi, dan catatan pembelajaran selama mengikuti kegiatan workshop secara daring.
