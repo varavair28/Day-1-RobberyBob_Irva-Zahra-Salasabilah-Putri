@@ -12,7 +12,7 @@ Tujuan repository ini adalah untuk melatih penggunaan GitHub sebagai media penyi
 Repository ini mendokumentasikan kegiatan workshop untuk Day-1. Dokumentasi mencakup materi atau topik yang disampaikan pemateri, rangkuman catatan pembelajaran, serta poin-poin penting terkait pengetahuan baru yang berhasil dipelajari pada sesi workshop ini.
 
 
-# Catatan Workshop Day-1: Maba JTIK PNJ
+# Catatan Workshop Day-1
 
 ## 1. Topik Utama
 1. Roadmap Jurusan TIK PNJ 2026-2030.
