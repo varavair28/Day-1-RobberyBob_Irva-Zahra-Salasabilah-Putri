@@ -16,7 +16,7 @@ c. Info Prodi D4 TMJ: Total beban kuliah 144 SKS selama 8 semester. Alurnya dari
 
 d. Tata Tertib Kampus: Aturan soal rambut rapi, pakaian, sampai larangan keras soal kekerasan wajib dipatuhi. Buat urusan lab, kalau mau pinjam alat atau ruangan wajib izin resmi ke teknisi/Kepala Lab dan ninggalin KTM sebagai jaminan.
 
-## 3. Insight Penting Buat Maba
+## 3. Insight Penting 
 
 a. Program MSIB lumayan worth it buat diikutin nanti pas udah semester atas, karena dapet pengalaman industri plus konversi SKS yang gede.
 
@@ -24,8 +24,16 @@ b. Materi kurikulum TMJ ternyata udah disesuaiin sama tren IT masa depan (kayak 
 
 c. Harus lebih aware sama aturan kampus dan SOP lab. Nggak bisa sembarangan pinjam barang tanpa ngikutin prosedur perizinan yang bener.
 
-Dokumentasi:
+## 4. Dokumentasi Kegiatan:
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fcd22cb0-2a68-4d14-9577-00eb45a59446" />
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b3eb2405-9152-4975-a8f3-d6983b7dbaa8" />
+
+## Catatan di Buku:
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/ffed0cfa-d999-42e0-8cf1-07da0425e2a3" />
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/4126e9ff-91eb-43a3-8cb6-76a124b5d64c" />
+
+
