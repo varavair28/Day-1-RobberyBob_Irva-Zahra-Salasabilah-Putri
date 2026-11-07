@@ -23,3 +23,7 @@ a. Program MSIB lumayan worth it buat diikutin nanti pas udah semester atas, kar
 b. Materi kurikulum TMJ ternyata udah disesuaiin sama tren IT masa depan (kayak Cloud, AI, Security). Jadi dari sekarang udah kebayang mau fokus ngulik apa.
 
 c. Harus lebih aware sama aturan kampus dan SOP lab. Nggak bisa sembarangan pinjam barang tanpa ngikutin prosedur perizinan yang bener.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fcd22cb0-2a68-4d14-9577-00eb45a59446" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b3eb2405-9152-4975-a8f3-d6983b7dbaa8" />
