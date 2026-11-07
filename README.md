@@ -2,6 +2,8 @@
 
 Nama Lengkap: Irva Zahra Salasabilah Putri
 
+Kelompok: 16-RobberyBob
+
 ## Deskripsi Repository
 Repository ini merupakan tempat penyimpanan dan dokumentasi seluruh kegiatan, materi, dan catatan pembelajaran selama mengikuti kegiatan workshop secara daring.
 
