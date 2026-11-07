@@ -1,4 +1,4 @@
-# Catatan Workshop Day-1: Maba JTIK PNJ
+# Catatan Workshop Day-1: 
 
 ## 1. Topik Utama
 1. Roadmap Jurusan TIK PNJ 2026-2030.
