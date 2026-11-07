@@ -24,6 +24,8 @@ b. Materi kurikulum TMJ ternyata udah disesuaiin sama tren IT masa depan (kayak 
 
 c. Harus lebih aware sama aturan kampus dan SOP lab. Nggak bisa sembarangan pinjam barang tanpa ngikutin prosedur perizinan yang bener.
 
+Dokumentasi:
+
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fcd22cb0-2a68-4d14-9577-00eb45a59446" />
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b3eb2405-9152-4975-a8f3-d6983b7dbaa8" />
